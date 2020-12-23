@@ -5,7 +5,7 @@ params:
   color_scheme: light
   accent_color: blue
   header:
-    title: Exto
+    title: tobiasbusch.xyz
     has_nav: true
     nav_links:
       - label: Home
