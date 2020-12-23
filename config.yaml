@@ -3,7 +3,7 @@ baseURL: /
 params:
   description: A portfolio theme with a blog
   color_scheme: light
-  accent_color: pink
+  accent_color: blue
   header:
     title: Exto
     has_nav: true
