@@ -45,8 +45,8 @@ sections:
     grid_items:
       - title: Hearing Research
         content: >-
-          I work as a researcher at the University of Oslo, Norway. My main
-          research area is spoken language development of children with cochlear
+          I work as a researcher at the University of Oslo. My main research
+          area is spoken language development of children with cochlear
           implants. I'm especially interested in the influence of the
           environment.
       - title: Data Visualisation
