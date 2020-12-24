@@ -54,7 +54,7 @@ params:
       - label: Github
         url: lorem-ipsum
         style: link
-        icon_class: gh
+        icon_class: fa-github
         new_window: false
         type: action
 taxonomies:
