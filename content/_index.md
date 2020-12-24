@@ -38,7 +38,7 @@ sections:
     view_all_url: portfolio
   - section_id: services
     type: section_grid
-    title: Things I Do
+    title: Things I Like
     subtitle: An optional subtitle of the section
     col_number: two
     is_numbered: true
