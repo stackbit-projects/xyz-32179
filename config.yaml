@@ -51,7 +51,7 @@ params:
         style: icon
         icon_class: fa-linkedin
         new_window: true
-      - label: lorem-ipsum
+      - label: Github
         url: lorem-ipsum
         style: link
         icon_class: lorem-ipsum
