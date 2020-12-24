@@ -55,9 +55,9 @@ sections:
           trying to get better with JavaScript.
       - title: Teaching R
         content: >-
-          Sed laoreet magna commodo libero euismod sodales. Nunc ac libero
-          convallis, interdum ligula vel, pretium diam. Integer commodo sem at
-          dui sollicitudin.
+          I work with the Carpentries, a volunteer organisation that teaches
+          scientific computing skills to researchers. It's all about
+          reproducible research and open science. 
       - title: Creative Coding
         content: >-
           Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis
