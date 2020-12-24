@@ -60,7 +60,8 @@ sections:
           reproducible research and open science. 
       - title: Creative Coding
         content: >-
-          Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis
-          nunc non interdum. Pellentesque tortor ligula, gravida ac commodo eu.
+          I like to dabble in a lot of different tech stuff. I love exploring
+          web technology, migrocomputing, AR/VR stuff, music with Sonic Pi. So
+          many things, so little time...
 layout: advanced
 ---
