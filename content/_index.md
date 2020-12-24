@@ -6,8 +6,9 @@ sections:
     type: section_hero
     title: 'Hi, I''m Tobias! I write about R and data visualization.'
     content: >-
-      This section can contain a subtitle or tagline. The recommended length is
-      one to three sentences, but can be changed as you prefer.
+      Hearing researcher by day, creative coder by night. Living in Oslo,
+      organizing social events for introverts & teaching scientists to code.
+      Pomelo is a super fruit. I never tweet [@tobilottii]
     actions:
       - label: Get in touch
         url: /contact
