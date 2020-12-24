@@ -22,7 +22,7 @@ sections:
         style: button
   - section_id: latest-posts
     type: section_posts
-    title: Latest from the Blog
+    title: Latest Blog posts
     subtitle: An optional subtitle of the section
     posts_number: 6
     col_number: three
