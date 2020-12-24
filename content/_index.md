@@ -18,7 +18,7 @@ sections:
         new_window: false
         type: action
       - label: Get in touch
-        url: services
+        url: '#services'
         style: button
   - section_id: latest-posts
     type: section_posts
