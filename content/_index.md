@@ -8,7 +8,8 @@ sections:
     content: >-
       Hearing researcher by day, creative coder by night. Living in Oslo,
       organizing social events for introverts & teaching scientists to code.
-      Pomelo is a super fruit. I never tweet [@tobilottii]
+      Pomelo is a super fruit. I never tweet
+      [@tobilottii](https://twitter.com/tobilottii)
     actions:
       - label: Get in touch
         url: /contact
