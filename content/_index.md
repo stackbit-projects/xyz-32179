@@ -61,7 +61,8 @@ sections:
       - title: Creative Coding
         content: >-
           I like to dabble in a lot of different tech stuff. I love exploring
-          web technology, migrocomputing, AR/VR stuff, music with Sonic Pi. So
-          many things, so little time...
+          web technology, microcomputing and electronics, AR/VR stuff, music
+          with Sonic Pi. Never let me get near a laser cutter. So many things,
+          so little time...
 layout: advanced
 ---
