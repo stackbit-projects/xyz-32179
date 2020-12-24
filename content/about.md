@@ -1,7 +1,7 @@
 ---
 title: About Me
 subtitle: This is a short page about us and our work.
-image: images/20190505_152503.jpg
+image: images/10.jpg
 layout: page
 ---
 
