@@ -50,7 +50,9 @@ sections:
           implants. I'm especially interested in the influence of the
           environment.
       - title: Data Visualisation
-        content: 'I''m passionate about data visualisation. '
+        content: >-
+          I'm passionate about data visualisation. My main tool is R, but I am
+          trying to get better with JavaScript.
       - title: Teaching R
         content: >-
           Sed laoreet magna commodo libero euismod sodales. Nunc ac libero
