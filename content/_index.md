@@ -50,7 +50,7 @@ sections:
           fringilla, fringilla.
       - title: Data Visualisation
         content: 'I''m passionate about data visualisation. '
-      - title: 'R '
+      - title: Teaching R
         content: >-
           Sed laoreet magna commodo libero euismod sodales. Nunc ac libero
           convallis, interdum ligula vel, pretium diam. Integer commodo sem at
