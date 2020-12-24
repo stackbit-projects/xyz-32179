@@ -32,7 +32,7 @@ sections:
         style: button
   - section_id: services
     type: section_grid
-    title: Things I Like
+    title: Things I like
     subtitle: An optional subtitle of the section
     col_number: two
     is_numbered: true
