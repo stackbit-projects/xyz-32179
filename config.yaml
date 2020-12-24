@@ -14,7 +14,7 @@ params:
       - label: Blog
         url: /blog/
         style: link
-      - label: Portfolio
+      - label: Projects
         url: /portfolio/
         style: link
       - label: About Me
