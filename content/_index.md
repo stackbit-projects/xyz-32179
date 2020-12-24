@@ -45,9 +45,10 @@ sections:
     grid_items:
       - title: Hearing Research
         content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
+          I work as a researcher at the University of Oslo, Norway. My main
+          research area is spoken language development of children with cochlear
+          implants. I'm especially interested in the influence of the
+          environment.
       - title: Data Visualisation
         content: 'I''m passionate about data visualisation. '
       - title: Teaching R
