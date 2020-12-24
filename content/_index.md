@@ -11,15 +11,15 @@ sections:
       Pomelo is a super fruit. I never tweet
       [@tobilottii](https://twitter.com/tobilottii)
     actions:
-      - label: Get in touch
-        url: /contact
-        style: button
       - label: lorem-ipsum
         url: lorem-ipsum
         style: button
         icon_class: lorem-ipsum
         new_window: false
         type: action
+      - label: Get in touch
+        url: /contact
+        style: button
   - section_id: latest-posts
     type: section_posts
     title: Latest from the Blog
