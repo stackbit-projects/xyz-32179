@@ -3,7 +3,7 @@ baseURL: /
 params:
   description: A portfolio theme with a blog
   color_scheme: light
-  accent_color: pink
+  accent_color: yellow
   header:
     title: tobiasbusch.xyz
     has_nav: true
