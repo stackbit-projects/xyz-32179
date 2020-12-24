@@ -30,10 +30,7 @@ params:
   footer:
     content: >-
       &copy; Tobias Busch. This site is powered by <a
-      href="https://www.stackbit.com" target="_blank"
-      rel="noopener">Stackbit</a>. Get yours <a
-      href="https://app.stackbit.com/create?theme=exto" target="_blank"
-      rel="noopener">here</a>.
+      href="https://www.stackbit.com" target="_blank" rel="noopener">Stackbit.
     has_social: true
     social_links:
       - label: Twitter
