@@ -28,14 +28,6 @@ sections:
       - label: View Blog
         url: blog
         style: button
-  - section_id: latest-projects
-    type: section_portfolio
-    layout_style: mosaic
-    title: Projects
-    subtitle: An optional subtitle of the section
-    projects_number: 4
-    view_all_label: View All
-    view_all_url: portfolio
   - section_id: services
     type: section_grid
     title: Things I Like
@@ -64,5 +56,13 @@ sections:
           web technology, microcomputing and electronics, Generative art, AR/VR
           stuff, music with Sonic Pi. Never let me get near a laser cutter. So
           many things, so little time...
+  - section_id: latest-projects
+    type: section_portfolio
+    layout_style: mosaic
+    title: Projects
+    subtitle: An optional subtitle of the section
+    projects_number: 4
+    view_all_label: View All
+    view_all_url: portfolio
 layout: advanced
 ---
