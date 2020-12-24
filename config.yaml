@@ -20,7 +20,7 @@ params:
       - label: Style Guide
         url: /style-guide/
         style: link
-      - label: About
+      - label: About Me
         url: /about/
         style: link
       - label: Contact
