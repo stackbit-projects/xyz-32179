@@ -51,6 +51,12 @@ params:
         style: icon
         icon_class: fa-linkedin
         new_window: true
+      - label: lorem-ipsum
+        url: lorem-ipsum
+        style: link
+        icon_class: lorem-ipsum
+        new_window: false
+        type: action
 taxonomies:
   stub: stub
 disableKinds:
