@@ -10,7 +10,7 @@ sections:
       organizing social events for introverts & teaching scientists to code.
       Pomelo is a super fruit.  
 
-      I never tweet[@tobilottii](https://twitter.com/tobilottii)
+      I never tweet [@tobilottii](https://twitter.com/tobilottii)
     actions:
       - label: lorem-ipsum
         url: lorem-ipsum
